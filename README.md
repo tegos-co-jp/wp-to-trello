@@ -19,7 +19,7 @@ svn cp trunk tags/1.0.2
 svn ci -m "tag version 1.0.2"
 ```
 
-### ｓｖｎ:動作テストのみでリリースしたい場合 
+### 動作テストのみでリリースしたい場合 
 * tagsの最新バージョンに移動
 ```ｓｖｎ:動作テストのみでリリースしたい場合
 svn update readme.txt
